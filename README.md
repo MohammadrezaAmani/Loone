@@ -1,3 +1,3 @@
-# Loone ORM
+# Loone ORM 🪺
 
-This is gonna be `Loone` of The `Gonjeshk` project.
+This is gonna be `Loone` of The `Gonjeshk 🐦` project.
